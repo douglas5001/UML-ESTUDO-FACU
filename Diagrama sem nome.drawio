@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T00:35:29.532Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.3" etag="dYal1I79dJCK7FZN1y3i" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T00:45:55.489Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="eh7J1VGm13UU2MedJakV" version="24.2.3" type="github">
   <diagram name="Página-1" id="SSoOUIlynBVtsL_x00th">
-    <mxGraphModel>
+    <mxGraphModel dx="1114" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TuwSMPX70wkb0_k2FwNP-2" value="UC001 Logon" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TuwSMPX70wkb0_k2FwNP-3" value="UC002&amp;nbsp;&lt;div&gt;Cadastrar Produto&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="300" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TuwSMPX70wkb0_k2FwNP-4" value="UC003&amp;nbsp;&lt;div&gt;Cadastrar Cliente&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="370" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TuwSMPX70wkb0_k2FwNP-5" value="UC004&amp;nbsp;&lt;div&gt;Fazer Pedido&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="180" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TuwSMPX70wkb0_k2FwNP-6" value="UC005&amp;nbsp;&lt;div&gt;Registrar Pagto&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TuwSMPX70wkb0_k2FwNP-7" value="UC006&amp;nbsp;&lt;div&gt;Precificar&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="390" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TuwSMPX70wkb0_k2FwNP-8" value="UC007&amp;nbsp;&lt;div&gt;Esqueci Senha&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TuwSMPX70wkb0_k2FwNP-9" value="UC008&amp;nbsp;&lt;div&gt;Validar Senha&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="460" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TuwSMPX70wkb0_k2FwNP-10" value="UC009&amp;nbsp;&lt;div&gt;Avaliar Comprovante&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="150" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TuwSMPX70wkb0_k2FwNP-11" value="CLiente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TuwSMPX70wkb0_k2FwNP-14" value="Usuário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="-40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TuwSMPX70wkb0_k2FwNP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TuwSMPX70wkb0_k2FwNP-15" target="TuwSMPX70wkb0_k2FwNP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TuwSMPX70wkb0_k2FwNP-15" value="Funcionário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
